@@ -1,0 +1,6 @@
+# /c/ là các trang clip chào hàng — mỗi trang dựng riêng cho đúng một kênh, gửi
+# kèm trong thư. Không phải trang cho cả thiên hạ đọc: người ta không muốn thấy
+# video của mình bị người lạ đem ra mổ nằm trên kết quả tìm kiếm. Mỗi trang còn
+# có thêm thẻ noindex ở trong, đây chỉ là lớp chặn thứ hai.
+User-agent: *
+Disallow: /c/
