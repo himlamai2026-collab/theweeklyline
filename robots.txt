@@ -4,3 +4,4 @@
 # có thêm thẻ noindex ở trong, đây chỉ là lớp chặn thứ hai.
 User-agent: *
 Disallow: /c/
+Disallow: /bang/
